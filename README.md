@@ -19,7 +19,7 @@
 I'm Lev, a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">.
 
 - For now I've gracefully finished my studying
-  at <a href="https://practicum.yandex.ru/profile/backend-developer/">Yandex Practicum</a> on Python developer. Additionally, I have successfully completed my bachelor's degree at the University.
+  on Python developer. Additionally, I have successfully completed my bachelor's degree at the University.
 - Learning and practicing the main frameworks of Python. Started my way with Django and now learning FastApi and PostgreSQL.
 - In my free time, I solve katas on CodeWars, keep up with technology news, and engage in sports.
 - Welcome to see my recent projects just below this page.
