@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img alt="gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWUwM2ZhNTlkYTYyNTBjM2JlYWNiMmFkNWZkYmUyZjhhZDRlODE4OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/du3J3cXyzhj75IOgvA/giphy.gif" width="100" style="border-radius: 20%"/>
-</div>
 <div id="badges" align="center">
   <a href="https://t.me/lsalekseev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
